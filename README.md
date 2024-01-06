@@ -72,6 +72,6 @@ This script demonstrates the process of training a Convolutional Neural Network 
 ## Author
 
 - **Author:** Ilaha Musayeva
-- **Date:** 20/20/2023
+- **Date:** 11/10/2023
 
 
